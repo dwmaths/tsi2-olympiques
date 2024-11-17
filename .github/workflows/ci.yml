@@ -19,4 +19,5 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-sqlite-console
       - run: mkdocs gh-deploy --force

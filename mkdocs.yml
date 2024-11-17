@@ -1,5 +1,5 @@
 site_name: SQL aux jeux Olympiques
-site_url: https://dwmaths.github.io/tsi2-olympiques
+site_url: https://dwmaths.github.io/tsi2-olympiques/
 theme:
   name: material
   features:
