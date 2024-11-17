@@ -14,7 +14,7 @@ On possède une base de données relatives aux jeux olympiques dont le schéma s
 
 Avant de répondre aux questions suivantes, vous pouvez observer la table **PERSON** à l'aide de la requête suivante :
 
-{{ sqlide titre="Table PERSON" base="bdd/olympics.db" espace="olympiques" sql="sql/person.sql" }}
+{{ sqlide titre="Table PERSON" base="./bdd/olympics.db" espace="olympiques" sql="sql/person.sql" }}
 
 !!! question Requêtes simples
 
